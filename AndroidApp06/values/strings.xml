@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidApp3</string>
+    <string name="action_settings">Settings</string>
+	<string name="share">share</string>
+	<string name="moreOption">moreOption</string>
+	<string name="titleRenamed">titleRenamed</string>
+	<string name="titleBase">titleBase</string>
+	<string name="leftmenu_profile">leftmenu_profile</string>
+	<string name="leftmenu_shopping_list">leftmenu_shopping_list</string>
+	<string name="leftmenu_favorites">leftmenu_favorites</string>
+	<string name="leftmenu_params">leftmenu_params</string>
+	<string name="leftmenu_params_option">leftmenu_params_option</string>
+	<string name="leftmenu_params_about">leftmenu_params_about</string>
+</resources>

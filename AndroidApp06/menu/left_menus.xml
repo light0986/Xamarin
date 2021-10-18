@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:checkableBehavior="single">
+		<item
+		  android:id="@+id/leftmenu_profile"
+		  android:title="@string/leftmenu_profile" />
+		<item
+		  android:id="@+id/leftmenu_shopping_list"
+		  android:title="@string/leftmenu_shopping_list" />
+		<item
+		  android:id="@+id/leftmenu_favorites"
+		  android:title="@string/leftmenu_favorites" />
+	</group>
+	<item android:title="@string/leftmenu_params" >
+		<menu>
+			<item
+			  android:title="@string/leftmenu_params_option"
+			  android:id="@+id/leftmenu_params_option"
+			  android:icon="@drawable/appicon_share" />
+			<item
+			  android:title="@string/leftmenu_params_about"
+			  android:id="@+id/leftmenu_params_about"
+			  android:icon="@drawable/appicon_share" />
+		</menu>
+	</item>
+</menu>
